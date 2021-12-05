@@ -1,2 +1,2 @@
 # CVRPPLOT
-A python implementation which plot the solution file of CVRP instances.
+A python implementation that plots the solution file of CVRP instances.
